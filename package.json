@@ -18,7 +18,7 @@
   "author": "HBMods-OFC",
   "license": "MIT",
    "dependencies": {
-        "@adiwajshing/baileys": "npm:@fizzxydev/baileys-pro",
+        "@adiwajshing/baileys": "npm:@fizzxydev/baileys-pro@latest",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
         "@kreisler/js-google-translate-free": "^2.1.0",
@@ -44,7 +44,7 @@
         "html-to-text": "^9.0.5",
         "human-readable": "^0.2.1",
         "javascript-obfuscator": "^4.0.0",
-        "jimp": "^0.16.13",
+        "jimp": "^0.22.12",
         "jsdom": "^22.1.0",
         "lodash": "^4.17.21",
         "mal-scraper": "^2.11.4",
