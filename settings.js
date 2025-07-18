@@ -4,12 +4,13 @@ const fs = require("fs")
 
 //aumto presence update
 global.AntiCallBot = false // false a i dah chuan, rawn call-tu che automatic a block a ni lovang
+global.GroupWcMsg = false // false a i dah chuan welcome message i off ang
 global.autoTyping = false // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
 global.public = true // false ah i dah chuan nang chauhin i hmang thei ang
 global.autoread = false // true a i dah chuan message zawng zawng read vek zelin a awm ang 
 global.autoread_status = false // true a i dah chuan auto status view in a awm ang
-global.group_bot = false // false ah i dah chuan groupah admin a nih hunah chuan hman thei a ni ang
+
 // SET UP LANGUAGE >>>>>>
 global.default_language = true // If you don't want to use the default language, set it to false
 global.mtl_language = false // set to true if you want to using multi language
@@ -24,11 +25,11 @@ global.ownername = "꧁Herbert♕꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
 global.botname = "HBWABot Mizo" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
-global.themeemoji = '🤖'
+global.themeemoji = ['😍', '🔥', '👌', '❤️', '🤯', '😂', '😎', '🥺', '💯', '✨'];
 global.creator = "918416093656@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
 global.ownerNumber = ["918416093656@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
-global.prefixc = ['.'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
+global.prefixc = ['/'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
 global.sessionName = 'session'
 
 // Sticker Pack Name
