@@ -41,15 +41,15 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [Settings.js](https://github.com/HBMods-OFC/HBWABot-Mz/blob/02484e7d4a8e37710a2ce5a92544c8f60f13b406/settings.js#L10) ah khian i lut anga, heng a chhunga mi te hi i thlak dawn a nia
   
 ```
-global.owner = ['918416093656'] //i number in thlak la
-global.ownernumber = '918416093656' //hei pawh hi thlak rawh
-global.ownername = "꧁Herbert♕꧂"// i hmingin thlak la
+global.owner = ['919863757289'] //i number in thlak la
+global.ownernumber = '919863757289' //hei pawh hi thlak rawh
+global.ownername = "maski"// i hmingin thlak la
 global.location = "India, Mizoram, Aizawl" // i awmna hmun
-global.botname = "HBWABot Mizo" // I bot hming tur dah la
+global.botname = "syngate" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel" // hei hi youtube channel i neih chuan thlak rawh
 global.themeemoji = '🤖'
-global.creator = "918416093656@s.whatsapp.net" // i phone number 
-global.ownerNumber = ["918416093656@s.whatsapp.net"] // i phone number 
+global.creator = "919863757289@s.whatsapp.net" // i phone number 
+global.ownerNumber = ["919863757289@s.whatsapp.net"] // i phone number 
 global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 ```
